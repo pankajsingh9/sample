@@ -1,0 +1,16 @@
+{
+    "name": "aswal/sample",
+    "description": "testing",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.0",
+        "flowdee/paapi5-php-sdk": "dev-master",
+        "quickemailverification/quickemailverification": "dev-master",
+        "aws/aws-sdk-php": "^3.0@dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "Sample": "src/"
+        }
+    }
+}
