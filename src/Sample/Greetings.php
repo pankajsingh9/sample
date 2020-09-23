@@ -42,4 +42,8 @@ class Greetings {
     {
         echo "test 000";
     }
+    
+    public function remote(){
+    }
+    
 }
