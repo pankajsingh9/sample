@@ -40,8 +40,6 @@ class Greetings {
 
     public static function sayHelloWorld()
     {
-        echo "local";
+        echo "test 000";
     }
-
-
 }
