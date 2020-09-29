@@ -4,3 +4,4 @@ composer.lock
 *.orig
 newbie.txt
 *.vscode
+*.iml
